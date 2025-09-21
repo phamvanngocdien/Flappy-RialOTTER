@@ -1,0 +1,17 @@
+#canvas {
+    background-color:#30c0df;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    padding: auto;
+    position: relative;
+    top: 169px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;   /* chiếm toàn bộ chiều cao cửa sổ */
+  background: url("img/webBG.png") no-repeat center center;
+  background-size: cover;   /* ảnh giãn ra vừa trang web */
+}
